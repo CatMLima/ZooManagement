@@ -1,5 +1,7 @@
 package hbv202g.zoomanagement;
-
+/*
+Catarina Lima worked on this class.
+ */
 public class Employee extends ZooPopulation{
     public String getWorkstatus() {
         return workstatus;

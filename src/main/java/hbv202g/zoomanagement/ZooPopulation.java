@@ -1,5 +1,7 @@
 package hbv202g.zoomanagement;
-
+/*
+Catarina Lima worked on this class.
+ */
 public abstract class ZooPopulation {
     public int getId() {
         return id;
